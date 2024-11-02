@@ -1,4 +1,4 @@
-# Managing-Software-Complexity---The-Cynefin-Framework
+# Managing Software Complexity - The Cynefin Framework
 
 **The Cynefin Framework** was developed by **IBM researchers**, including **Dave Snowden**, to help people identify and understand complex systems and determine the appropriate approach to decision making and problem solving in this context. It is based on the premise that complex systems have 5 domains of complexity: _**simple, complicated, complex, chaotic and disordered.**_
 
